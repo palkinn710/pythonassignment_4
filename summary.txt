@@ -1,0 +1,5 @@
+Campus Energy Summary
+
+Total usage: 80265.81 kWh
+Top building: Lab (38047.18 kWh)
+Peak reading: 463.72 kWh at 2025-11-18 23:05:06.112112
